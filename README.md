@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @matthewwakeham
-- 👀 I’m interested in the intersection of technology/philosophy/art within the context of programming.
+- 👀 I’m interested in technology/philosophy/art.
 - 🌱 I’m currently learning Python.
-- 💞️ I’m looking to collaborate on projects which explore philosophy, and art in the context of technology.
+- 💞️ I’m looking to collaborate on projects which explore the integration of philosophy/art into software.
 - 📫 You can reach me on IG: @matthewwakeham
 
 <!---
