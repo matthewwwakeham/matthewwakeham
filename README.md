@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @matthewwakeham
+- 👋 Hi, I’m @matthewwwakeham
 - 👀 I’m interested in technology/philosophy/art.
 - 🌱 I’m currently learning Python.
 - 💞️ I’m looking to collaborate on projects which explore the integration of philosophy/art into software.
