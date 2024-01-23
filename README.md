@@ -1,4 +1,4 @@
-- 🌱 I’m currently learning about Data Analysis and Python.
+🌱 I’m currently learning about Data Analysis and Python.
 
 
 
