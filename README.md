@@ -1,4 +1,8 @@
-🌱 I’m currently learning about Data Analysis and Python.
+# Matthew Wakeham
+I am interested in computational mathematics and philosophy of language.
+
+# Education
+B.S. in Mathematics & B.A. in Philosophy, OCU.
 
 
 
