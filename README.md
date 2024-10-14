@@ -1,10 +1,3 @@
-# Matthew Wakeham
-I am interested in computational mathematics and philosophy of language.
-
-# Education
-B.S. in Mathematics & B.A. in Philosophy, OCU.
-
-
 
 <!---
 matthewwakeham/matthewwakeham is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
